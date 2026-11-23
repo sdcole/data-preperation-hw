@@ -1,0 +1,12 @@
+name: data-preparation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - pandas
+  - matplotlib
+  - openpyxl
+  - beautifulsoup4

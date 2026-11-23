@@ -1,0 +1,206 @@
+location,homicide-rate-per-100k,year,region,subregion,rate-outlier,zero-rate,old-data
+Afghanistan,4.22,2023-01-01,Asia,Southern Asia,False,False,False
+Albania,1.76,2024-01-01,Europe,Southern Europe,False,False,False
+Algeria,1.38,2024-01-01,Africa,Northern Africa,False,False,False
+American Samoa,0.0,2019-01-01,Oceania,Polynesia,False,True,False
+Andorra,2.58,2020-01-01,Europe,Southern Europe,False,False,False
+Angola,4.1,2016-01-01,Africa,Sub-Saharan Africa,False,False,False
+Anguilla,29.14,2014-01-01,Americas,Latin America and the Caribbean,True,False,False
+Antigua and Barbuda,12.8,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Argentina,3.94,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Armenia,2.19,2024-01-01,Asia,Western Asia,False,False,False
+Aruba,1.94,2014-01-01,Americas,Latin America and the Caribbean,False,False,False
+Australia,0.94,2024-01-01,Oceania,Australia and New Zealand,False,False,False
+Austria,0.99,2024-01-01,Europe,Western Europe,False,False,False
+Azerbaijan,1.99,2024-01-01,Asia,Western Asia,False,False,False
+Bahamas,29.9,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Bahrain,0.2,2022-01-01,Asia,Western Asia,False,False,False
+Bangladesh,1.76,2023-01-01,Asia,Southern Asia,False,False,False
+Barbados,7.43,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Belarus,1.54,2024-01-01,Europe,Eastern Europe,False,False,False
+Belgium,1.08,2021-01-01,Europe,Western Europe,False,False,False
+Belize,28.06,2022-01-01,Americas,Latin America and the Caribbean,True,False,False
+Bermuda,6.18,2023-01-01,Americas,Northern America,False,False,False
+Bhutan,2.47,2020-01-01,Asia,Southern Asia,False,False,False
+Bolivia,3.65,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Bosnia and Herzegovina,0.98,2024-01-01,Europe,Southern Europe,False,False,False
+Botswana,12.98,2023-01-01,Africa,Sub-Saharan Africa,False,False,False
+Brazil,18.69,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+British Virgin Islands,8.17,2006-01-01,Americas,Latin America and the Caribbean,False,False,True
+Brunei,0.49,2013-01-01,Asia,South-eastern Asia,False,False,False
+Bulgaria,1.17,2024-01-01,Europe,Eastern Europe,False,False,False
+Burundi,5.65,2016-01-01,Africa,Sub-Saharan Africa,False,False,False
+Cambodia,1.82,2011-01-01,Asia,South-eastern Asia,False,False,False
+Cameroon,6.76,2022-01-01,Africa,Sub-Saharan Africa,False,False,False
+Canada,1.98,2024-01-01,Americas,Northern America,False,False,False
+Cape Verde,7.0,2020-01-01,Africa,Sub-Saharan Africa,False,False,False
+Cayman Islands,4.37,2020-01-01,Americas,Latin America and the Caribbean,False,False,False
+Channel Islands,0.0,2010-01-01,Europe,Northern Europe,False,True,False
+Chile,6.11,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+China,0.5,2020-01-01,Asia,Eastern Asia,False,False,False
+Colombia,24.35,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Cook Islands,3.56,2012-01-01,Oceania,Polynesia,False,False,False
+Costa Rica,17.11,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Croatia,1.01,2024-01-01,Europe,Southern Europe,False,False,False
+Cuba,4.46,2019-01-01,Americas,Latin America and the Caribbean,False,False,False
+Curaçao,16.92,2007-01-01,Americas,Latin America and the Caribbean,True,False,True
+Cyprus,0.96,2024-01-01,Asia,Western Asia,False,False,False
+Czech Republic,0.62,2024-01-01,Europe,Eastern Europe,False,False,False
+Denmark,0.84,2024-01-01,Europe,Northern Europe,False,False,False
+Dominica,18.13,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Dominican Republic,9.12,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Ecuador,38.94,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Egypt,1.31,2017-01-01,Africa,Northern Africa,False,False,False
+El Salvador,3.3,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Eritrea,15.61,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Estonia,1.76,2024-01-01,Europe,Northern Europe,False,False,False
+Eswatini,13.68,2024-01-01,Africa,Sub-Saharan Africa,False,False,False
+Ethiopia,8.51,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Fiji,2.37,2024-01-01,Oceania,Melanesia,False,False,False
+Finland,0.93,2023-01-01,Europe,Northern Europe,False,False,False
+France,1.32,2024-01-01,Europe,Western Europe,False,False,False
+French Guiana,13.39,2020-01-01,Americas,Latin America and the Caribbean,False,False,False
+French Polynesia,0.37,2009-01-01,Oceania,Polynesia,False,False,True
+Georgia,2.03,2019-01-01,Asia,Western Asia,False,False,False
+Germany,0.92,2024-01-01,Europe,Western Europe,False,False,False
+Ghana,1.83,2022-01-01,Africa,Sub-Saharan Africa,False,False,False
+Gibraltar,0.0,2024-01-01,Europe,Southern Europe,False,True,False
+Greece,0.85,2024-01-01,Europe,Southern Europe,False,False,False
+Greenland,5.35,2016-01-01,Americas,Northern America,False,False,False
+Grenada,13.67,2023-01-01,Americas,Latin America and the Caribbean,False,False,False
+Guadeloupe,5.68,2016-01-01,Americas,Latin America and the Caribbean,False,False,False
+Guam,4.33,2019-01-01,Oceania,Micronesia,False,False,False
+Guatemala,22.76,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Guinea-Bissau,1.12,2017-01-01,Africa,Sub-Saharan Africa,False,False,False
+Guyana,14.08,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Haiti,64.34,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Holy See,0.0,2024-01-01,Europe,Southern Europe,False,True,False
+Honduras,23.92,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Hong Kong,0.38,2023-01-01,Asia,Eastern Asia,False,False,False
+Hungary,0.7,2024-01-01,Europe,Eastern Europe,False,False,False
+Iceland,2.03,2024-01-01,Europe,Northern Europe,False,False,False
+India,2.72,2023-01-01,Asia,Southern Asia,False,False,False
+Indonesia,0.42,2024-01-01,Asia,South-eastern Asia,False,False,False
+Iran,2.38,2014-01-01,Asia,Southern Asia,False,False,False
+Iraq,9.46,2013-01-01,Asia,Western Asia,False,False,False
+Iraq (Central Iraq),15.4,2021-01-01,Asia,Western Asia,False,False,False
+Iraq (Kurdistan Region),2.25,2013-01-01,Asia,Western Asia,False,False,False
+Ireland,0.7,2024-01-01,Europe,Northern Europe,False,False,False
+Isle of Man,0.0,2016-01-01,Europe,Northern Europe,False,True,False
+Israel,3.72,2024-01-01,Asia,Western Asia,False,False,False
+Italy,0.57,2024-01-01,Europe,Southern Europe,False,False,False
+Jamaica,40.36,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Japan,0.23,2024-01-01,Asia,Eastern Asia,False,False,False
+Jordan,0.84,2024-01-01,Asia,Western Asia,False,False,False
+Kazakhstan,2.55,2022-01-01,Asia,Central Asia,False,False,False
+Kenya,4.65,2024-01-01,Africa,Sub-Saharan Africa,False,False,False
+Kiribati,7.12,2012-01-01,Oceania,Micronesia,False,False,False
+Kosovo,1.9,2021-01-01,Europe,Southern Europe,False,False,False
+Kuwait,0.78,2022-01-01,Asia,Western Asia,False,False,False
+Latvia,2.78,2024-01-01,Europe,Northern Europe,False,False,False
+Lebanon,2.64,2024-01-01,Asia,Western Asia,False,False,False
+Lesotho,22.2,2024-01-01,Africa,Sub-Saharan Africa,True,False,False
+Liberia,3.09,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Liechtenstein,2.51,2024-01-01,Europe,Western Europe,False,False,False
+Lithuania,2.66,2024-01-01,Europe,Northern Europe,False,False,False
+Luxembourg,1.53,2022-01-01,Europe,Western Europe,False,False,False
+Macau,0.14,2024-01-01,Asia,Eastern Asia,False,False,False
+Malawi,1.78,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Malaysia,0.69,2024-01-01,Asia,South-eastern Asia,False,False,False
+Maldives,0.62,2019-01-01,Asia,Southern Asia,False,False,False
+Malta,0.93,2024-01-01,Europe,Southern Europe,False,False,False
+Marshall Islands,4.19,1994-01-01,Oceania,Micronesia,False,False,True
+Martinique,2.75,2009-01-01,Americas,Latin America and the Caribbean,False,False,True
+Mauritania,1.0,2020-01-01,Africa,Sub-Saharan Africa,False,False,False
+Mauritius,2.68,2024-01-01,Africa,Sub-Saharan Africa,False,False,False
+Mayotte,5.94,2009-01-01,Africa,Sub-Saharan Africa,False,False,True
+Mexico,25.64,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Federated States of Micronesia,0.91,2019-01-01,Oceania,Micronesia,False,False,False
+Moldova,2.01,2024-01-01,Europe,Eastern Europe,False,False,False
+Monaco,0.0,2008-01-01,Europe,Western Europe,False,True,True
+Mongolia,5.64,2024-01-01,Asia,Eastern Asia,False,False,False
+Montenegro,2.51,2024-01-01,Europe,Southern Europe,False,False,False
+Montserrat,0.0,2018-01-01,Americas,Latin America and the Caribbean,False,True,False
+Morocco,1.67,2024-01-01,Africa,Northern Africa,False,False,False
+Mozambique,3.59,2011-01-01,Africa,Sub-Saharan Africa,False,False,False
+Myanmar,3.9,2022-01-01,Asia,South-eastern Asia,False,False,False
+Namibia,11.21,2021-01-01,Africa,Sub-Saharan Africa,False,False,False
+Nepal,2.13,2020-01-01,Asia,Southern Asia,False,False,False
+Netherlands,0.66,2024-01-01,Europe,Western Europe,False,False,False
+New Caledonia,3.11,2009-01-01,Oceania,Melanesia,False,False,True
+New Zealand,1.46,2022-01-01,Oceania,Australia and New Zealand,False,False,False
+Nicaragua,5.45,2023-01-01,Americas,Latin America and the Caribbean,False,False,False
+Niger,4.42,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Nigeria,15.75,2023-01-01,Africa,Sub-Saharan Africa,False,False,False
+North Macedonia,1.26,2024-01-01,Europe,Southern Europe,False,False,False
+Northern Ireland,0.52,2023-01-01,Europe,Northern Europe,False,False,False
+Norway,0.7,2024-01-01,Europe,Northern Europe,False,False,False
+Oman,0.14,2023-01-01,Asia,Western Asia,False,False,False
+Pakistan,4.33,2024-01-01,Asia,Southern Asia,False,False,False
+Palau,11.23,2018-01-01,Oceania,Micronesia,False,False,False
+Palestine,0.27,2024-01-01,Asia,Western Asia,False,False,False
+Panama,12.78,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Papua New Guinea,9.34,2010-01-01,Oceania,Melanesia,False,False,False
+Paraguay,6.88,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Peru,8.6,2021-01-01,Americas,Latin America and the Caribbean,False,False,False
+Philippines,4.31,2024-01-01,Asia,South-eastern Asia,False,False,False
+Poland,0.68,2024-01-01,Europe,Eastern Europe,False,False,False
+Portugal,0.71,2023-01-01,Europe,Southern Europe,False,False,False
+Puerto Rico,15.21,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Qatar,0.07,2022-01-01,Asia,Western Asia,False,False,False
+Réunion,1.79,2009-01-01,Africa,Sub-Saharan Africa,False,False,True
+Romania,1.12,2024-01-01,Europe,Eastern Europe,False,False,False
+Russia,7.82,2024-01-01,Europe,Eastern Europe,False,False,False
+Rwanda,3.61,2020-01-01,Africa,Sub-Saharan Africa,False,False,False
+Saint Helena,0.0,2009-01-01,Africa,Sub-Saharan Africa,False,True,True
+Saint Kitts and Nevis,59.77,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Saint Lucia,40.61,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Saint Martin,26.9,2016-01-01,Americas,Latin America and the Caribbean,True,False,False
+Saint Pierre and Miquelon,16.58,2009-01-01,Americas,Northern America,True,False,True
+Saint Vincent and the Grenadines,50.69,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Samoa,6.26,2018-01-01,Oceania,Polynesia,False,False,False
+San Marino,0.0,2011-01-01,Europe,Southern Europe,False,True,False
+São Tomé and Príncipe,3.23,2011-01-01,Africa,Sub-Saharan Africa,False,False,False
+Saudi Arabia,0.8,2024-01-01,Asia,Western Asia,False,False,False
+Scotland,1.04,2023-01-01,Europe,Northern Europe,False,False,False
+Serbia,0.89,2024-01-01,Europe,Southern Europe,False,False,False
+Seychelles,7.97,2022-01-01,Africa,Sub-Saharan Africa,False,False,False
+Sierra Leone,2.22,2020-01-01,Africa,Sub-Saharan Africa,False,False,False
+Singapore,0.17,2024-01-01,Asia,South-eastern Asia,False,False,False
+Slovakia,1.07,2024-01-01,Europe,Eastern Europe,False,False,False
+Slovenia,0.71,2024-01-01,Europe,Southern Europe,False,False,False
+Solomon Islands,3.73,2008-01-01,Oceania,Melanesia,False,False,True
+South Africa,39.72,2024-01-01,Africa,Sub-Saharan Africa,True,False,False
+South Korea,0.49,2024-01-01,Asia,Eastern Asia,False,False,False
+South Sudan,13.98,2012-01-01,Africa,Sub-Saharan Africa,False,False,False
+Spain,0.73,2024-01-01,Europe,Southern Europe,False,False,False
+Sri Lanka,2.51,2022-01-01,Asia,Southern Asia,False,False,False
+Suriname,4.26,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Sweden,0.87,2024-01-01,Europe,Northern Europe,False,False,False
+Switzerland,0.5,2024-01-01,Europe,Western Europe,False,False,False
+Syria,2.06,2010-01-01,Asia,Western Asia,False,False,False
+Tajikistan,0.89,2020-01-01,Asia,Central Asia,False,False,False
+Tanzania,3.3,2024-01-01,Africa,Sub-Saharan Africa,False,False,False
+Thailand,4.79,2011-01-01,Asia,South-eastern Asia,False,False,False
+Timor-Leste,4.07,2015-01-01,Asia,South-eastern Asia,False,False,False
+Tonga,0.95,2019-01-01,Oceania,Polynesia,False,False,False
+Trinidad and Tobago,41.52,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Tunisia,4.69,2020-01-01,Africa,Northern Africa,False,False,False
+Turkey,2.41,2024-01-01,Asia,Western Asia,False,False,False
+Turkmenistan,1.01,2015-01-01,Asia,Central Asia,False,False,False
+Turks and Caicos Islands,103.15,2024-01-01,Americas,Latin America and the Caribbean,True,False,False
+Tuvalu,0.0,2019-01-01,Oceania,Polynesia,False,True,False
+Uganda,8.82,2024-01-01,Africa,Sub-Saharan Africa,False,False,False
+Ukraine,3.78,2021-01-01,Europe,Eastern Europe,False,False,False
+United Arab Emirates,0.52,2023-01-01,Asia,Western Asia,False,False,False
+United Kingdom (England and Wales),0.93,2023-01-01,Europe,Northern Europe,False,False,False
+United States,5.76,2023-01-01,Americas,Northern America,False,False,False
+U.S. Virgin Islands,49.86,2012-01-01,Americas,Latin America and the Caribbean,True,False,False
+Uruguay,11.28,2024-01-01,Americas,Latin America and the Caribbean,False,False,False
+Uzbekistan,1.4,2021-01-01,Asia,Central Asia,False,False,False
+Vanuatu,0.34,2020-01-01,Oceania,Melanesia,False,False,False
+Venezuela,13.81,2023-01-01,Americas,Latin America and the Caribbean,False,False,False
+Vietnam,1.54,2011-01-01,Asia,South-eastern Asia,False,False,False
+Yemen,5.81,2013-01-01,Asia,Western Asia,False,False,False
+Zambia,5.2,2015-01-01,Africa,Sub-Saharan Africa,False,False,False
+Zimbabwe,6.76,2022-01-01,Africa,Sub-Saharan Africa,False,False,False
